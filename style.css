@@ -373,6 +373,7 @@
     overflow: hidden;
     transition: all 0.3s;
     background: var(--ink-soft);
+    text-decoration: none;
   }
 
   .portfolio-card:hover {
